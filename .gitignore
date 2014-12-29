@@ -1,1 +1,9 @@
-target/
+# Global
+.metadata
+target
+test-output
+
+# IDEs
+*.classpath
+*.project
+*.settings/
