@@ -1,6 +1,6 @@
 # Global
 .metadata
-target
+target/
 test-output
 
 # IDEs
