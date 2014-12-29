@@ -1,6 +1,5 @@
 package matchcraft;
 
-import java.util.Collection;
 import java.util.List;
 
 public class IntegerOperator implements Operator{
